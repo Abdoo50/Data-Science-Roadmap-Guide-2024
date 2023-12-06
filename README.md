@@ -215,6 +215,20 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron**:
   - A practical guide to machine learning with Python.
   - [Hands-On Machine Learning Information](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+ 
+## Advanced Topics in Data Science
+
+### Deep Learning and AI
+- **"Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville**: 
+   - [More Information](https://www.deeplearningbook.org/)
+- **"Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig**: 
+   - [More Information](http://aima.cs.berkeley.edu/)
+
+### Data Engineering and Big Data
+- **"Designing Data-Intensive Applications" by Martin Kleppmann**: 
+   - [More Information](https://dataintensive.net/)
+- **"Big Data: Principles and Best Practices of Scalable Realtime Data Systems" by Nathan Marz and James Warren**: 
+   - [More Information](https://www.manning.com/books/big-data)
 
 These books cover a broad range of topics in data science, from basic programming and statistical techniques to advanced machine learning and practical business applications. They are suitable for learners at different stages of their data science journey.
 
