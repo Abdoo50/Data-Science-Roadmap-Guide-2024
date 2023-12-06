@@ -43,46 +43,46 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - **Tutorials for ReGex**:
     [W3Schools Tutorial](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fpython_regex.asp)
 ---
-#### Learning Resources for Web Scraping
-1. **Python Web Scraping Learning Path on Real Python**: 
-   - A comprehensive guide to the core Python technologies and skills needed for web scraping.
+### Learning Resources for Web Scraping
+- **Python Web Scraping Learning Path on Real Python**: 
+   - Comprehensive guide to core Python technologies and skills needed for web scraping.
    - [Real Python Web Scraping Learning Path](https://realpython.com/learning-paths/python-web-scraping/)
 
-2. **Making HTTP Requests with Python**: 
-   - Understand the basics of making HTTP requests using Python’s urllib.request.
+- **Making HTTP Requests with Python**: 
+   - Basics of making HTTP requests using Python’s urllib.request.
    - [Tutorial on HTTP Requests](https://realpython.com/learning-paths/python-web-scraping/)
 
-3. **Working with Python's Requests Library**: 
-   - Learn how to make HTTP requests in Python using the requests library.
+- **Working with Python's Requests Library**: 
+   - Making HTTP requests in Python using the requests library.
    - [Making HTTP Requests With Python](https://realpython.com/learning-paths/python-web-scraping/)
 
-4. **Introduction to HTML and CSS for Python Developers**: 
-   - A tutorial on HTML and CSS basics, essential for web scraping.
+- **Introduction to HTML and CSS for Python Developers**: 
+   - HTML and CSS basics essential for web scraping.
    - [HTML and CSS for Python Developers](https://realpython.com/learning-paths/python-web-scraping/)
 
-5. **Web Scraping in Python: Tools, Techniques, and Legality**: 
-   - Discussing the tools and best practices for web scraping in Python.
+- **Web Scraping in Python: Tools, Techniques, and Legality**: 
+   - Tools and best practices for web scraping in Python.
    - [Web Scraping in Python: Tools, Techniques, and Legality](https://realpython.com/learning-paths/python-web-scraping/)
 
-6. **Web Scraping with Beautiful Soup and Python**: 
-   - Walk through the main steps of web scraping using Python's requests library and Beautiful Soup.
+- **Web Scraping with Beautiful Soup and Python**: 
+   - Main steps of web scraping using Python's requests library and Beautiful Soup.
    - [Web Scraping With Beautiful Soup and Python](https://realpython.com/learning-paths/python-web-scraping/)
 
-7. **A Practical Introduction to Web Scraping in Python**: 
-   - Learn to parse data from websites and interact with HTML forms.
+- **A Practical Introduction to Web Scraping in Python**: 
+   - Parsing data from websites and interacting with HTML forms.
    - [A Practical Introduction to Web Scraping in Python](https://realpython.com/learning-paths/python-web-scraping/)
 
-8. **Working with JSON Data in Python**: 
-   - Learn how to serialize and deserialize JSON data.
+- **Working with JSON Data in Python**: 
+   - Serializing and deserializing JSON data.
    - [Working With JSON Data in Python](https://realpython.com/learning-paths/python-web-scraping/)
 
-9. **Reading and Writing CSV Files in Python**: 
-   - Covers handling CSV data using Python's csv module and pandas library.
+- **Reading and Writing CSV Files in Python**: 
+   - Handling CSV data using Python's csv module and pandas library.
    - [Reading and Writing CSV Files](https://realpython.com/learning-paths/python-web-scraping/)
 
-10. **Modern Web Automation with Python and Selenium**: 
-    - Advanced Python web automation techniques, including using Selenium and headless browsing.
-    - [Modern Web Automation With Python and Selenium](https://realpython.com/learning-paths/python-web-scraping/)
+- **Modern Web Automation with Python and Selenium**: 
+   - Advanced Python web automation techniques using Selenium and headless browsing.
+   - [Modern Web Automation With Python and Selenium](https://realpython.com/learning-paths/python-web-scraping/)
 ---
 
 #### Arabic Content for Python
