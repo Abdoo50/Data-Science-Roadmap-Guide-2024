@@ -40,6 +40,7 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - [Kaggle Python Course](https://www.kaggle.com/learn/python)
 - **Python Regular Expressions (ReGex)**:
    - Alex the Analyst: [YouTube Series](https://www.youtube.com/watch?v=_oCUSMX4_3k&list=PLUaB-1hjhk8EwZgCwBP36HH-SLJk4RaWp&pp=iAQB&ab_channel=AlexTheAnalyst)
+   **Tutorials for ReGex**:
    - [W3Schools Tutorial](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fpython_regex.asp)
 
 #### Arabic Content for Python
@@ -47,10 +48,11 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - [YouTube Course](https://www.youtube.com/watch?v=mvZHDpCHphk&ab_channel=ElzeroWebSchool)
 - **Practice Python**:
    - [Codechef Python Practice](https://www.codechef.com/practice/python)
+   - [HackerRank Python Practice](https://www.hackerrank.com/domains/python)
 - **Python Tutorials**:
-   - W3School
-   - JavatPoint
-   - GeeksforGeeks
+   - [W3School](https://www.w3schools.com/python/)
+   - [JavatPoint](https://www.javatpoint.com/python-tutorial)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
 
 ###  SQL For Data Science
 - **Alex the Analyst Channel**: 
@@ -59,12 +61,30 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - [SQL Advanced](https://www.youtube.com/watch?v=K1WeoKxLZ5o&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&ab_channel=AlexTheAnalyst)
 - **Programming with Mosh**: 
    - [MySQL Course](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+ 
+- **Data Analysis Using SQL**:
+   - [Fractal Analytics Data Science Course](https://www.coursera.org/learn/data-analysis-sql?specialization=fractal-data-science)
+ 
+- **Databases for Data Science**:
+   - [IBM Data Science Specialization](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
+ 
+- **SQL and Advanced Course**:
+   - [365 DataScience](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
 
 ### Arabic Content for SQL:
 - **Microsoft SQL in 90 Minutes**: 
    - [Udemy Course](https://www.udemy.com/course/learn-sql-basics-for-beginners-in-arabic-2021/)
 - **SQL Server 2019 Query Course**: 
    - [YouTube Playlist](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD&ab_channel=AhmedRagab)
+ 
+### for Practice on SQL:
+- [**HackerRank**](https://www.hackerrank.com/domains/sql)
+- [**LeetCode**](https://leetcode.com/problemset/database/)
+
+### Tutorials For SQL:
+[**W3School:**](https://www.w3schools.com/sql/)
+[**SQL Zoo:**](https://sqlzoo.net/wiki/SQL_Tutorial)
+
 
 ## 4. Pandas, Numpy
 - **Pandas**:
@@ -73,8 +93,26 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Numpy**:
    - Kaggle: [Numpy Tutorial for Beginners](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science/notebook)
 
+## 5. Data Cleaning
+- **Courses In Python**:
+  - [**Alex The Analyst Channel**](https://www.youtube.com/watch?v=bDhvCp3_lYw&pp=ygUcRGF0YSBDbGVhbmluZyBDb3Vyc2VzIFB5dGhvbg%3D%3D&ab_channel=AlexTheAnalyst)
+  - [**Data Cleaning From Kaggle**](https://www.kaggle.com/learn/data-cleaning)
+  - [**Learn from Project**](https://www.youtube.com/watch?v=7mYbrpfAU6k&ab_channel=HerDataProject)
+- **Courses In SQL**:
+  - [**Alex the Analyst**](https://www.youtube.com/watch?v=8rO7ztF4NtU&t=15s&pp=ygUcRGF0YSBDbGVhbmluZyBDb3Vyc2VzIFB5dGhvbg%3D%3D&ab_channel=AlexTheAnalyst)
+  - [**Learn From Google**](https://www.youtube.com/watch?v=r7GDQt3lZxs&ab_channel=GoogleCareerCertificates)
+ 
+- **NoteBooks**
+  - [**Notebook1 for Python**](https://github.com/Abdoo50/Data_Cleaning)
+  - [**Notebook2 for Python**](https://www.kaggle.com/code/code1110/houseprice-data-cleaning-visualization)
+  - [**Notebook1 for SQL**](https://learnsql.com/blog/data-cleaning-in-sql/)
+  - [**Notebook2 for SQL**](https://www.kaggle.com/code/oliverdaubney/data-cleaning-with-sql)
 
-## 5. Data Visualization (Power BI, Tableau)
+ - **Articles**
+   - [**Data Cleaning Using SQL**](https://medium.com/@aakash_7/data-cleaning-using-sql-6aee7fca84ee)
+   - [**Data Cleaning Using Pandas in Python – Complete Guide for Beginners**](https://www.analyticsvidhya.com/blog/2021/06/data-cleaning-using-pandas/)
+
+## 6. Data Visualization (Power BI, Tableau)
 - **IBM Data Visualization With Python**: [Coursera Course](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
 - **Kaggle Learn for Data Visualization**: [Kaggle Course](https://www.kaggle.com/learn/data-visualization)
 
@@ -85,25 +123,29 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Codebasics on YouTube**: [Power BI Projects](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&ab_channel=codebasics)
 
 #### Arabic Content for Machine Learning:
-- **Power Buisness Intelligence**: [عمر سليم -بيم ارابيا](https://www.youtube.com/watch?v=vnmdflPN8DE&list=PLNMim060_nUJSv3RZm-859qopUVmRjFQk&ab_channel=%D8%B9%D9%85%D8%B1%D8%B3%D9%84%D9%8A%D9%85-%D8%A8%D9%8A%D9%85%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A%D8%A7)
+- **Power Business Intelligence**: [عمر سليم -بيم ارابيا](https://www.youtube.com/watch?v=vnmdflPN8DE&list=PLNMim060_nUJSv3RZm-859qopUVmRjFQk&ab_channel=%D8%B9%D9%85%D8%B1%D8%B3%D9%84%D9%8A%D9%85-%D8%A8%D9%8A%D9%85%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A%D8%A7)
 
 #### For Tableau:
 - **Alex the Analyst Course on YouTube**: [Learn Tableau Public](https://www.youtube.com/watch?v=6xv1KvCMF1Q&pp=ygUUTGVhcm4gVGFibGV1YSBwdWJsaWM%3D&ab_channel=AlexTheAnalyst)
 - **Tableau Projects on YouTube**: [DataScienceRoadMap Channel](https://www.youtube.com/watch?v=sWWLMb1Dcy4&list=PL7RSbI9s6KhgovdILZ-lIpW-LTkduE-ll&ab_channel=DataScienceRoadMap)
 
-## 6. Exploratory Data Analysis for Machine Learning
+## 7. Exploratory Data Analysis for Machine Learning
 - **Coursera EDA Course by IBM**: [IBM Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
 - **Ken Jee's Projects on YouTube**: [Ken Jee YouTube](https://www.youtube.com/watch?v=QWgg4w1SpJ8&pp=ygULS2VuIEplZSBFREE%3D&ab_channel=KenJee)
 
 ## 7. Machine Learning
 - **Andrew Ng's Machine Learning Specialization**: [Coursera Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+
 - **IBM Machine Learning Course on Coursera**: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
+
 - **Fractal Analytics Courses on Coursera**:
   - [Foundations of Machine Learning](https://www.coursera.org/learn/foundations-of-machine-learning?specialization=fractal-data-science)
   - [Advanced Machine Learning Algorithms](https://www.coursera.org/learn/advanced-machine-learning-algorithms?specialization=fractal-data-science)
+
 - **Kaggle Courses**:
   - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
   - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+
 - **Tutorials**: 
   - [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/?ref=shm_outind)
   - [JavatPoint](https://www.javatpoint.com/machine-learning)
