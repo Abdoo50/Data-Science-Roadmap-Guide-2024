@@ -17,9 +17,43 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - [Part 2](https://www.youtube.com/watch?v=03fgIhcRGwI&ab_channel=ZAnalytics)
 - **Algohary AI**: 
    - [Descriptive Statistics Series](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW&ab_channel=ElgoharyAI)
+ 
+### 2. Probability
+- **Khan Academy Probability Course**: 
+   - [Khan Academy Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+- **Arabic Content**:
+   - Dr. Ahmed Hagag's Course: [YouTube Playlist](https://www.youtube.com/watch?v=GmJJ2iZz08c&list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-&ab_channel=Dr.AhmedHagag)
 
-### 4. SQL For Data Science
-- **Alex the Analyst**: 
+### 3. Programming Languages
+
+#### Python
+- **Python for Data Science from IBM on Coursera**:
+   - [Python for Applied Data Science AI](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
+   - [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science)
+- **Python for Data Science from Fractal Analytics on Coursera**:
+   - [Python Data Science Course](https://www.coursera.org/learn/python-data-science?specialization=fractal-data-science)
+- **University of Michigan Python Specialization on Coursera**:
+   - [Python Specialization](https://www.coursera.org/specializations/python?)
+- **FreeCodeCamp Python Course**:
+   - [YouTube Course](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
+- **Practical Learning with Kaggle**:
+   - [Kaggle Python Course](https://www.kaggle.com/learn/python)
+- **Python Regular Expressions (ReGex)**:
+   - Alex the Analyst: [YouTube Series](https://www.youtube.com/watch?v=_oCUSMX4_3k&list=PLUaB-1hjhk8EwZgCwBP36HH-SLJk4RaWp&pp=iAQB&ab_channel=AlexTheAnalyst)
+   - [W3Schools Tutorial](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fpython_regex.asp)
+
+#### Arabic Content for Python
+- **Python Course from Elzero Web School**:
+   - [YouTube Course](https://www.youtube.com/watch?v=mvZHDpCHphk&ab_channel=ElzeroWebSchool)
+- **Practice Python**:
+   - [Codechef Python Practice](https://www.codechef.com/practice/python)
+- **Python Tutorials**:
+   - W3School
+   - JavatPoint
+   - GeeksforGeeks
+
+###  SQL For Data Science
+- **Alex the Analyst Channel**: 
    - [SQL Basics](https://www.youtube.com/watch?v=RSlqWnP-Dy8&list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW&ab_channel=AlexTheAnalyst)
    - [SQL Intermediate](https://www.youtube.com/watch?v=9URM1_2S0ho&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&ab_channel=AlexTheAnalyst)
    - [SQL Advanced](https://www.youtube.com/watch?v=K1WeoKxLZ5o&list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU&ab_channel=AlexTheAnalyst)
@@ -32,7 +66,7 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **SQL Server 2019 Query Course**: 
    - [YouTube Playlist](https://www.youtube.com/watch?v=B7evUQGmN6M&list=PLfM2wZNebA2zROxUcAbGxNrpVZncsF3oD&ab_channel=AhmedRagab)
 
-### 5. Pandas, Numpy
+### 4. Pandas, Numpy
 - **Pandas**:
    - Kaggle's Course: [Kaggle Pandas](https://www.kaggle.com/learn/pandas)
    - Corey Schafer: [YouTube Series](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
@@ -40,7 +74,7 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - Kaggle: [Numpy Tutorial for Beginners](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science/notebook)
 
 
-### 6. Data Visualization (Power BI, Tableau)
+### 5. Data Visualization (Power BI, Tableau)
 - **IBM Data Visualization With Python**: [Coursera Course](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
 - **Kaggle Learn for Data Visualization**: [Kaggle Course](https://www.kaggle.com/learn/data-visualization)
 
@@ -57,11 +91,11 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Alex the Analyst Course on YouTube**: [Learn Tableau Public](https://www.youtube.com/watch?v=6xv1KvCMF1Q&pp=ygUUTGVhcm4gVGFibGV1YSBwdWJsaWM%3D&ab_channel=AlexTheAnalyst)
 - **Tableau Projects on YouTube**: [DataScienceRoadMap Channel](https://www.youtube.com/watch?v=sWWLMb1Dcy4&list=PL7RSbI9s6KhgovdILZ-lIpW-LTkduE-ll&ab_channel=DataScienceRoadMap)
 
-### 7. Exploratory Data Analysis for Machine Learning
+### 6. Exploratory Data Analysis for Machine Learning
 - **Coursera EDA Course by IBM**: [IBM Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
 - **Ken Jee's Projects on YouTube**: [Ken Jee YouTube](https://www.youtube.com/watch?v=QWgg4w1SpJ8&pp=ygULS2VuIEplZSBFREE%3D&ab_channel=KenJee)
 
-### 8. Machine Learning
+### 7. Machine Learning
 - **Andrew Ng's Machine Learning Specialization**: [Coursera Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - **IBM Machine Learning Course on Coursera**: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
 - **Fractal Analytics Courses on Coursera**:
@@ -80,40 +114,41 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Elgohary AI on YouTube**: [Elgohary AI Machine Learning Course](https://www.youtube.com/watch?v=95RhuC30R5U&list=PLtsZ69x5q-X9j44MdSX-NGuOhGXOY0aqH&ab_channel=ElgoharyAI)
 
 
-### 9. Deep Learning (Optional For Complex Models)
+### 8. Deep Learning (Optional For Complex Models)
 - **Deep Learning Specialization by Andrew Ng**: A series of courses on Coursera that covers deep learning in detail. [Link](https://www.coursera.org/specializations/deep-learning)
 - **TensorFlow in Practice Specialization on Coursera**: Focuses on using TensorFlow for deep learning. [Link](https://www.coursera.org/specializations/tensorflow-in-practice)
 - **Fast.ai Deep Learning Course**: Practical and hands-on approach to deep learning. [Link](https://course.fast.ai/)
 - **YouTube Channels**: Channels like **Deeplearning.ai**, **sentdex**, and **3Blue1Brown** (for neural network visualization).
 
-### 10. Natural Language Processing (NLP)
+### 9. Natural Language Processing (NLP)
 - **Natural Language Processing Specialization by Coursera**: [Link](https://www.coursera.org/specializations/natural-language-processing)
 - **NLP Course by Dan Jurafsky & Chris Manning** on YouTube. [Link](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
 - **Kaggle's NLP Tutorials**: Practical exercises and datasets. [Link](https://www.kaggle.com/learn/natural-language-processing)
 
-### 11. Web Deployment (Docker, Streamlit, Flask)
+### 10. Web Deployment (Docker, Streamlit, Flask)
 - **Flask for Beginners**: FreeCodeCamp's video on YouTube. [Link](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 - **Streamlit Official Documentation and Tutorials**: For building interactive apps. [Link](https://streamlit.io/)
 - **Docker for Beginners**: FreeCodeCamp's comprehensive guide on YouTube. [Link](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
-### 12. Specialize in a Domain
+### 11. Specialize in a Domain
 - Choose a domain like finance, healthcare, marketing, etc., and apply your data science skills to solve domain-specific problems.
 - Look for domain-specific datasets on platforms like Kaggle or UCI Machine Learning Repository to practice.
 
-### 13. Keep Learning and Updating Your Skills
+### 12. Keep Learning and Updating Your Skills
 - **Data Science is ever-evolving**: Stay updated with the latest trends, tools, and technologies in the field.
 - **Participate in Webinars and Workshops**: Many universities and companies host free webinars.
 - **Follow Data Science Blogs and Podcasts**: Stay in the loop with current developments and insights from professionals.
 
-### 14. Build a Portfolio
+### 13. Build a Portfolio
 - **GitHub**: Document and showcase your projects and code.
 - **Write Blogs**: Share your learnings and project insights on platforms like Medium or your personal blog.
 
-### 15. Networking and Community Participation
+### 14. Networking and Community Participation
 - **LinkedIn**: Connect with professionals and join data science groups.
 - **Attend Meetups and Conferences**: Both virtual and physical events are great for networking.
 - **Contribute to Open Source Projects**: This can be a valuable learning experience and a boost to your resume.
 
+----
 ### Arabic Content
 - Additional resources and tutorials in Arabic, if available, to complement each section.
 
