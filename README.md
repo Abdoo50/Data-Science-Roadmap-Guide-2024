@@ -174,8 +174,17 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 ## 7. Exploratory Data Analysis for Machine Learning
 - **Coursera EDA Course by IBM**: [IBM Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
 - **Ken Jee's Projects on YouTube**: [Ken Jee YouTube](https://www.youtube.com/watch?v=QWgg4w1SpJ8&pp=ygULS2VuIEplZSBFREE%3D&ab_channel=KenJee)
-
-## 7. Machine Learning
+- **Notebooks**:[Marketing Analytics EDA task [Final]](https://www.kaggle.com/code/jennifercrockett/marketing-analytics-eda-task-final)
+---
+## 8. Feature Engineering
+- **Gentle Introduction to Feature Engineering**: [Abdo Ashour's Article](https://app.gitbook.com/o/3RjhsZ3hNdixMVDcoRCL/s/G8GqBZNrRj5A43sPyad4/)
+- **Kaggle's Course**: [Practical Course](https://www.kaggle.com/learn/feature-engineering)
+- **Notebooks**:
+  - [Advanced Feature Engineering](https://www.kaggle.com/code/seneralkan/advanced-feature-engineering)
+  - [Automated Feature Engineering Tutorial](https://www.kaggle.com/code/willkoehrsen/automated-feature-engineering-tutorial)
+  - [A Reference Guide to Feature Engineering Methods](https://www.kaggle.com/code/prashant111/a-reference-guide-to-feature-engineering-methods)
+---
+## 9. Machine Learning
 - **Andrew Ng's Machine Learning Specialization**: [Coursera Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - **IBM Machine Learning Course on Coursera**: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
@@ -197,42 +206,42 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Hesham Asem on YouTube**: [Machine Learning Course](https://www.youtube.com/watch?v=QQeT4z5rdtE&list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR&ab_channel=HeshamAsem)
 - **Elgohary AI on YouTube**: [Elgohary AI Machine Learning Course](https://www.youtube.com/watch?v=95RhuC30R5U&list=PLtsZ69x5q-X9j44MdSX-NGuOhGXOY0aqH&ab_channel=ElgoharyAI)
 
-
-## 8. Deep Learning (Optional For Complex Models)
+---
+## 10. Deep Learning (Optional For Complex Models)
 - **Deep Learning Specialization by Andrew Ng**: A series of courses on Coursera that covers deep learning in detail. [Link](https://www.coursera.org/specializations/deep-learning)
 - **TensorFlow in Practice Specialization on Coursera**: Focuses on using TensorFlow for deep learning. [Link](https://www.coursera.org/specializations/tensorflow-in-practice)
 - **Fast.ai Deep Learning Course**: Practical and hands-on approach to deep learning. [Link](https://course.fast.ai/)
 - **YouTube Channels**: Channels like **Deeplearning.ai**, **sentdex**, and **3Blue1Brown** (for neural network visualization).
-
-## 9. Natural Language Processing (NLP)
+---
+## 11. Natural Language Processing (NLP)
 - **Natural Language Processing Specialization by Coursera**: [Link](https://www.coursera.org/specializations/natural-language-processing)
 - **NLP Course by Dan Jurafsky & Chris Manning** on YouTube. [Link](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
 - **Kaggle's NLP Tutorials**: Practical exercises and datasets. [Link](https://www.kaggle.com/learn/natural-language-processing)
-
-## 10. Web Deployment (Docker, Streamlit, Flask)
+---
+## 12. Web Deployment (Docker, Streamlit, Flask)
 - **Flask for Beginners**: FreeCodeCamp's video on YouTube. [Link](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 - **Streamlit Official Documentation and Tutorials**: For building interactive apps. [Link](https://streamlit.io/)
 - **Docker for Beginners**: FreeCodeCamp's comprehensive guide on YouTube. [Link](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-
-## 11. Specialize in a Domain
+---
+## 13. Specialize in a Domain
 - Choose a domain like finance, healthcare, marketing, etc., and apply your data science skills to solve domain-specific problems.
 - Look for domain-specific datasets on platforms like Kaggle or UCI Machine Learning Repository to practice.
-
-## 12. Keep Learning and Updating Your Skills
+---
+## 14. Keep Learning and Updating Your Skills
 - **Data Science is ever-evolving**: Stay updated with the latest trends, tools, and technologies in the field.
 - **Participate in Webinars and Workshops**: Many universities and companies host free webinars.
 - **Follow Data Science Blogs and Podcasts**: Stay in the loop with current developments and insights from professionals.
-
-## 13. Build a Portfolio
+---
+## 15. Build a Portfolio
 - **GitHub**: Document and showcase your projects and code.
 - **Write Blogs**: Share your learnings and project insights on platforms like Medium or your personal blog.
-
-## 14. Networking and Community Participation
+---
+## 16. Networking and Community Participation
 - **LinkedIn**: Connect with professionals and join data science groups.
 - **Attend Meetups and Conferences**: Both virtual and physical events are great for networking.
 - **Contribute to Open Source Projects**: This can be a valuable learning experience and a boost to your resume.
 
--------------
+----
 ## Books for Learning and Practicing Data Science
 
 ### Fundamental Texts:
