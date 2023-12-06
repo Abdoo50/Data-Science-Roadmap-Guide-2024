@@ -118,3 +118,15 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - Additional resources and tutorials in Arabic, if available, to complement each section.
 
 This roadmap provides a comprehensive guide for anyone looking to delve into the field of data science. It covers a wide range of essential topics and provides resources for both theoretical learning and practical application. Remember, the key to success in data science is continuous learning and practical application of the skills you acquire.
+
+
+---
+
+## Contact
+
+If you have any questions or would like to connect, feel free to reach out to me:
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)
+- **Email**: [abdoashour4040@gmail.com](mailto:abdoashour4040@gmail.com)
+
+---
