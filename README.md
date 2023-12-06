@@ -165,7 +165,7 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Codebasics on YouTube**: [Power BI Projects](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&ab_channel=codebasics)
 
 #### Arabic Content for Machine Learning:
-- **Power Business Intelligence**: [عمر سليم -بيم ارابيا](https://www.youtube.com/watch?v=vnmdflPN8DE&list=PLNMim060_nUJSv3RZm-859qopUVmRjFQk&ab_channel=%D8%B9%D9%85%D8%B1%D8%B3%D9%84%D9%8A%D9%85-%D8%A8%D9%8A%D9%85%D8%A7%D8%B1%D8%A7%D8%A8%D9%8A%D8%A7)
+- **Power Business Intelligence**: [Power BI From A-Z](https://www.youtube.com/watch?v=DlaAWLez_6s&list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA&ab_channel=FouadZawadi)
 
 #### For Tableau:
 - **Alex the Analyst Course on YouTube**: [Learn Tableau Public](https://www.youtube.com/watch?v=6xv1KvCMF1Q&pp=ygUUTGVhcm4gVGFibGV1YSBwdWJsaWM%3D&ab_channel=AlexTheAnalyst)
