@@ -190,6 +190,34 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Attend Meetups and Conferences**: Both virtual and physical events are great for networking.
 - **Contribute to Open Source Projects**: This can be a valuable learning experience and a boost to your resume.
 
+-------------
+## Books for Learning and Practicing Data Science
+
+### Fundamental Texts:
+- **"Python Data Science Handbook" by Jake VanderPlas**: 
+  - A comprehensive guide to using Python in data science. 
+  - [Python Data Science Handbook Information](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+- **"Introduction to Statistical Learning" by Gareth James et al.**:
+  - A beginner-friendly introduction to statistical learning techniques.
+  - [Introduction to Statistical Learning Information](http://www-bcf.usc.edu/~gareth/ISL/)
+
+### Practical Application and Business Insight:
+- **"Practical Statistics for Data Scientists" by Andrew Bruce & Peter Bruce**:
+  - Focuses on statistical methods essential for data science.
+  - [Practical Statistics for Data Scientists Information](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+
+- **"Data Science for Business" by Foster Provost & Tom Fawcett**:
+  - Explains data science concepts and their business applications.
+  - [Data Science for Business Information](http://data-science-for-biz.com/)
+
+### Advanced Machine Learning:
+- **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron**:
+  - A practical guide to machine learning with Python.
+  - [Hands-On Machine Learning Information](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+
+These books cover a broad range of topics in data science, from basic programming and statistical techniques to advanced machine learning and practical business applications. They are suitable for learners at different stages of their data science journey.
+
 ----
 ### Arabic Content
 - Additional resources and tutorials in Arabic, if available, to complement each section.
