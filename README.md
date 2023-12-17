@@ -158,16 +158,19 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **IBM Data Visualization With Python**: [Coursera Course](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
 - **Kaggle Learn for Data Visualization**: [Kaggle Course](https://www.kaggle.com/learn/data-visualization)
 
-#### For Power BI:
+### For Power BI:
 - **Microsoft Learn for Power BI**: [Microsoft Learn](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 - **Power BI Full Course**: [Learnit Training](https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW&ab_channel=LearnitTraining)
 - **Fractal Analytics Coursera**: [Power BI Course](https://www.coursera.org/learn/power-bi-insights/home)
 - **Codebasics on YouTube**: [Power BI Projects](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&ab_channel=codebasics)
 
-#### Arabic Content for Machine Learning:
+#### Arabic Content for Power BI:
 - **Power Business Intelligence**: [Power BI From A-Z](https://www.youtube.com/watch?v=DlaAWLez_6s&list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA&ab_channel=FouadZawadi)
 
-#### For Tableau:
+#### Article Content for Power BI:
+- **Power Business Intelligence**: [Power BI Dax Functions](https://dax.guide/)
+
+### For Tableau:
 - **Alex the Analyst Course on YouTube**: [Learn Tableau Public](https://www.youtube.com/watch?v=6xv1KvCMF1Q&pp=ygUUTGVhcm4gVGFibGV1YSBwdWJsaWM%3D&ab_channel=AlexTheAnalyst)
 - **Tableau Projects on YouTube**: [DataScienceRoadMap Channel](https://www.youtube.com/watch?v=sWWLMb1Dcy4&list=PL7RSbI9s6KhgovdILZ-lIpW-LTkduE-ll&ab_channel=DataScienceRoadMap)
 
