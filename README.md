@@ -217,9 +217,38 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **YouTube Channels**: Channels like **Deeplearning.ai**, **sentdex**, and **3Blue1Brown** (for neural network visualization).
 ---
 ## 11. Natural Language Processing (NLP)
+
+### Courses:
 - **Natural Language Processing Specialization by Coursera**: [Link](https://www.coursera.org/specializations/natural-language-processing)
 - **NLP Course by Dan Jurafsky & Chris Manning** on YouTube. [Link](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
-- **Kaggle's NLP Tutorials**: Practical exercises and datasets. [Link](https://www.kaggle.com/learn/natural-language-processing)
+- **Coursera's NLP Specialization**: Offered by the National Research University Higher School of Economics. [Link](https://www.coursera.org/specializations/natural-language-processing)
+
+### Books for NLP:
+1. **"Speech and Language Processing" by Dan Jurafsky & James H. Martin**: A comprehensive guide to NLP. [Link](https://web.stanford.edu/~jurafsky/slp3/)
+2. **"Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper**: Practical guide to implementing NLP with Python. [Link](https://www.oreilly.com/library/view/natural-language-processing/9780596803346/)
+3. **"Foundations of Statistical Natural Language Processing" by Christopher D. Manning and Hinrich Schütze**: Focuses on statistical methods in NLP. [Link](https://mitpress.mit.edu/books/foundations-statistical-natural-language-processing)
+4. **"Introduction to Natural Language Processing" by Jacob Eisenstein**: Offers insights into the latest developments in NLP. [Link](https://mitpress.mit.edu/books/introduction-natural-language-processing)
+5. **"Applied Natural Language Processing with Python" by Taweh Beysolow II**: For applying NLP techniques in real-world scenarios. [Link](https://www.apress.com/gp/book/9781484237330)
+
+### Notebooks for NLP Projects on Kaggle:
+
+1. **NLP (Natural Language Processing) Project**: This project involves classifying Yelp Reviews into 1 star or 5 star categories based on the text content. It's a practical approach to understanding how sentiment analysis can be applied to real-world data. [Kaggle Link](https://www.kaggle.com/code/aonursert/nlp-natural-language-processing-project)
+
+2. **Basic NLP with NLTK**: A foundational project for beginners, focusing on using the Natural Language Toolkit (NLTK) in Python. It covers essential NLP tasks and serves as a good starting point for those new to NLP. [Kaggle Link](https://www.kaggle.com/code/alvations/basic-nlp-with-nltk)
+
+3. **NLP Project**: This notebook involves using various NLP techniques and is a good example of a comprehensive NLP project. It can provide insights into more complex applications of NLP. [Kaggle Link](https://www.kaggle.com/code/reemasebi/nlp-project)
+
+4. **Detailed NLP Project (Prediction & Visualization)**: This project is more advanced, focusing on both prediction and visualization aspects of NLP. It's ideal for learners who want to delve deeper into data analysis and visualization in the context of NLP. [Kaggle Link](https://www.kaggle.com/code/duttadebadri/detailed-nlp-project-prediction-visualization)
+5. **NLP Projects on GitHub**: Explore real-world applications and coding practices. [Link](https://github.com/topics/natural-language-processing)
+
+These notebooks offer a range of projects, from basic to advanced, and can significantly enhance your understanding and skills in NLP. They are practical, hands-on resources that align well with the Data Science Roadmap Guide 2023.
+
+### Articles for NLP:
+
+1. **Towards Data Science - NLP Articles**: Blog posts and tutorials on Medium. [Link](https://towardsdatascience.com/)
+  
+2. **GeeksforGeeks NLP Tutorial**: A comprehensive tutorial on Natural Language Processing. This resource offers an in-depth exploration of NLP concepts, techniques, and their applications. It's a great starting point for those new to NLP as well as a useful reference for more experienced practitioners. [Tutorial Link](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=header_search)
+
 ---
 ## 12. Web Deployment (Docker, Streamlit, Flask)
 - **Flask for Beginners**: FreeCodeCamp's video on YouTube. [Link](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
