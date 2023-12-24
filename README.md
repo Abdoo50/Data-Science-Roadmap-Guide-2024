@@ -163,6 +163,7 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
 - **Power BI Full Course**: [Learnit Training](https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaMKFbBSKSmnOpEcXqqRegW&ab_channel=LearnitTraining)
 - **Fractal Analytics Coursera**: [Power BI Course](https://www.coursera.org/learn/power-bi-insights/home)
 - **Codebasics on YouTube**: [Power BI Projects](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&ab_channel=codebasics)
+- **The Ultimate Guide to Power BI Visualizations**: [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2023/12/the-ultimate-guide-to-power-bi-visualizations/)
 
 #### Arabic Content for Power BI:
 - **Power Business Intelligence**: [Power BI From A-Z](https://www.youtube.com/watch?v=DlaAWLez_6s&list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA&ab_channel=FouadZawadi)
