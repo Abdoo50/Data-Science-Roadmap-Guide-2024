@@ -42,6 +42,8 @@ Embarking on a journey into Data Science can be both exciting and overwhelming g
    - Alex the Analyst: [YouTube Series](https://www.youtube.com/watch?v=_oCUSMX4_3k&list=PLUaB-1hjhk8EwZgCwBP36HH-SLJk4RaWp&pp=iAQB&ab_channel=AlexTheAnalyst)
    - **Tutorials for ReGex**:
     [W3Schools Tutorial](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fpython_regex.asp)
+   - **Python Statistics Operations on Our Data**:
+     [Python Tutorial for Operations on Data](https://realpython.com/python-statistics/)
 ---
 ### Learning Resources for Web Scraping
 - **Python Web Scraping Learning Path on Real Python**: 
