@@ -1,4 +1,8 @@
 # Data Science Roadmap
+---
+<p style="text-align: center;">
+    <img src="https://github.com/Abdoo50/Data-Science-Roadmap-Guide-2024/raw/main/Data%20Science%20Logo.png" alt="Data Science Project"/>
+</p>
 
 Embarking on a journey into Data Science can be both exciting and overwhelming given the vast array of topics to cover. This roadmap is designed to guide learners through the essential topics and resources needed to build a solid foundation in Data Science. It encompasses mathematics, programming, data analysis, and machine learning, along with courses and resources in both English and Arabic.
 
